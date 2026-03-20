@@ -1,0 +1,10 @@
+{
+  "n_drugs": 932,
+  "n_targets": 664,
+  "n_entities": 1596,
+  "n_interactions": 5127,
+  "n_train": 3588,
+  "n_val": 769,
+  "n_test": 770,
+  "sparsity": 0.9917152515641967
+}
