@@ -1,0 +1,18 @@
+{
+  "datasets": [
+    "lou"
+  ],
+  "n_drug_types": 5,
+  "n_target_types": 5,
+  "output_files": {
+    "type_statistics": [
+      "lou_type_statistics.json"
+    ],
+    "interaction_patterns": [
+      "lou_interaction_patterns.json"
+    ],
+    "heatmaps": [
+      "lou_heatmap.npy"
+    ]
+  }
+}

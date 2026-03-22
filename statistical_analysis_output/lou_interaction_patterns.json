@@ -1,0 +1,406 @@
+{
+  "type_interaction_matrix": {
+    "3,3": {
+      "interactions": 120,
+      "non_interactions": 0,
+      "total": 120,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "3,0": {
+      "interactions": 183,
+      "non_interactions": 0,
+      "total": 183,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "0,3": {
+      "interactions": 72,
+      "non_interactions": 0,
+      "total": 72,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "0,2": {
+      "interactions": 50,
+      "non_interactions": 0,
+      "total": 50,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "0,4": {
+      "interactions": 53,
+      "non_interactions": 0,
+      "total": 53,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "0,1": {
+      "interactions": 59,
+      "non_interactions": 0,
+      "total": 59,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "1,0": {
+      "interactions": 106,
+      "non_interactions": 0,
+      "total": 106,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "1,3": {
+      "interactions": 60,
+      "non_interactions": 0,
+      "total": 60,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "0,0": {
+      "interactions": 71,
+      "non_interactions": 0,
+      "total": 71,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "1,4": {
+      "interactions": 41,
+      "non_interactions": 0,
+      "total": 41,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "1,1": {
+      "interactions": 64,
+      "non_interactions": 0,
+      "total": 64,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "3,4": {
+      "interactions": 87,
+      "non_interactions": 0,
+      "total": 87,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "2,2": {
+      "interactions": 66,
+      "non_interactions": 0,
+      "total": 66,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "2,0": {
+      "interactions": 95,
+      "non_interactions": 0,
+      "total": 95,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "3,1": {
+      "interactions": 130,
+      "non_interactions": 0,
+      "total": 130,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "2,1": {
+      "interactions": 79,
+      "non_interactions": 0,
+      "total": 79,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "1,2": {
+      "interactions": 71,
+      "non_interactions": 0,
+      "total": 71,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "4,2": {
+      "interactions": 64,
+      "non_interactions": 0,
+      "total": 64,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "4,0": {
+      "interactions": 69,
+      "non_interactions": 0,
+      "total": 69,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "4,1": {
+      "interactions": 64,
+      "non_interactions": 0,
+      "total": 64,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "4,3": {
+      "interactions": 45,
+      "non_interactions": 0,
+      "total": 45,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "2,4": {
+      "interactions": 47,
+      "non_interactions": 0,
+      "total": 47,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "3,2": {
+      "interactions": 121,
+      "non_interactions": 0,
+      "total": 121,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "2,3": {
+      "interactions": 74,
+      "non_interactions": 0,
+      "total": 74,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    },
+    "4,4": {
+      "interactions": 32,
+      "non_interactions": 0,
+      "total": 32,
+      "interaction_probability": 1.0,
+      "non_interaction_probability": 0.0
+    }
+  },
+  "drug_type_preference": {
+    "3": {
+      "3": 120,
+      "0": 183,
+      "4": 87,
+      "1": 130,
+      "2": 121
+    },
+    "0": {
+      "3": 72,
+      "2": 50,
+      "4": 53,
+      "1": 59,
+      "0": 71
+    },
+    "1": {
+      "0": 106,
+      "3": 60,
+      "4": 41,
+      "1": 64,
+      "2": 71
+    },
+    "2": {
+      "2": 66,
+      "0": 95,
+      "1": 79,
+      "4": 47,
+      "3": 74
+    },
+    "4": {
+      "2": 64,
+      "0": 69,
+      "1": 64,
+      "3": 45,
+      "4": 32
+    }
+  },
+  "target_type_preference": {
+    "3": {
+      "3": 120,
+      "0": 72,
+      "1": 60,
+      "4": 45,
+      "2": 74
+    },
+    "0": {
+      "3": 183,
+      "1": 106,
+      "0": 71,
+      "2": 95,
+      "4": 69
+    },
+    "2": {
+      "0": 50,
+      "2": 66,
+      "1": 71,
+      "4": 64,
+      "3": 121
+    },
+    "4": {
+      "0": 53,
+      "1": 41,
+      "3": 87,
+      "2": 47,
+      "4": 32
+    },
+    "1": {
+      "0": 59,
+      "1": 64,
+      "3": 130,
+      "2": 79,
+      "4": 64
+    }
+  },
+  "conserved_patterns": [
+    {
+      "drug_type": 3,
+      "target_type": 3,
+      "probability": 1.0,
+      "count": 120
+    },
+    {
+      "drug_type": 3,
+      "target_type": 0,
+      "probability": 1.0,
+      "count": 183
+    },
+    {
+      "drug_type": 0,
+      "target_type": 3,
+      "probability": 1.0,
+      "count": 72
+    },
+    {
+      "drug_type": 0,
+      "target_type": 2,
+      "probability": 1.0,
+      "count": 50
+    },
+    {
+      "drug_type": 0,
+      "target_type": 4,
+      "probability": 1.0,
+      "count": 53
+    },
+    {
+      "drug_type": 0,
+      "target_type": 1,
+      "probability": 1.0,
+      "count": 59
+    },
+    {
+      "drug_type": 1,
+      "target_type": 0,
+      "probability": 1.0,
+      "count": 106
+    },
+    {
+      "drug_type": 1,
+      "target_type": 3,
+      "probability": 1.0,
+      "count": 60
+    },
+    {
+      "drug_type": 0,
+      "target_type": 0,
+      "probability": 1.0,
+      "count": 71
+    },
+    {
+      "drug_type": 1,
+      "target_type": 4,
+      "probability": 1.0,
+      "count": 41
+    },
+    {
+      "drug_type": 1,
+      "target_type": 1,
+      "probability": 1.0,
+      "count": 64
+    },
+    {
+      "drug_type": 3,
+      "target_type": 4,
+      "probability": 1.0,
+      "count": 87
+    },
+    {
+      "drug_type": 2,
+      "target_type": 2,
+      "probability": 1.0,
+      "count": 66
+    },
+    {
+      "drug_type": 2,
+      "target_type": 0,
+      "probability": 1.0,
+      "count": 95
+    },
+    {
+      "drug_type": 3,
+      "target_type": 1,
+      "probability": 1.0,
+      "count": 130
+    },
+    {
+      "drug_type": 2,
+      "target_type": 1,
+      "probability": 1.0,
+      "count": 79
+    },
+    {
+      "drug_type": 1,
+      "target_type": 2,
+      "probability": 1.0,
+      "count": 71
+    },
+    {
+      "drug_type": 4,
+      "target_type": 2,
+      "probability": 1.0,
+      "count": 64
+    },
+    {
+      "drug_type": 4,
+      "target_type": 0,
+      "probability": 1.0,
+      "count": 69
+    },
+    {
+      "drug_type": 4,
+      "target_type": 1,
+      "probability": 1.0,
+      "count": 64
+    },
+    {
+      "drug_type": 4,
+      "target_type": 3,
+      "probability": 1.0,
+      "count": 45
+    },
+    {
+      "drug_type": 2,
+      "target_type": 4,
+      "probability": 1.0,
+      "count": 47
+    },
+    {
+      "drug_type": 3,
+      "target_type": 2,
+      "probability": 1.0,
+      "count": 121
+    },
+    {
+      "drug_type": 2,
+      "target_type": 3,
+      "probability": 1.0,
+      "count": 74
+    },
+    {
+      "drug_type": 4,
+      "target_type": 4,
+      "probability": 1.0,
+      "count": 32
+    }
+  ],
+  "total_analyzed_pairs": 1923
+}
