@@ -1,0 +1,602 @@
+[
+  {
+    "drug_id": "DB00572",
+    "target_id": "P34903",
+    "score": 238.37780986459643,
+    "rank": 1
+  },
+  {
+    "drug_id": "DB00897",
+    "target_id": "P34903",
+    "score": 238.37780986464918,
+    "rank": 2
+  },
+  {
+    "drug_id": "DB00572",
+    "target_id": "P21728",
+    "score": 238.3778098646846,
+    "rank": 3
+  },
+  {
+    "drug_id": "DB00897",
+    "target_id": "P21728",
+    "score": 238.37780986473786,
+    "rank": 4
+  },
+  {
+    "drug_id": "DB00572",
+    "target_id": "P41145",
+    "score": 238.37780986475406,
+    "rank": 5
+  },
+  {
+    "drug_id": "DB00897",
+    "target_id": "P41145",
+    "score": 238.37780986480715,
+    "rank": 6
+  },
+  {
+    "drug_id": "DB00572",
+    "target_id": "P18825",
+    "score": 238.37780986512058,
+    "rank": 7
+  },
+  {
+    "drug_id": "DB00897",
+    "target_id": "P18825",
+    "score": 238.3778098651735,
+    "rank": 8
+  },
+  {
+    "drug_id": "DB00404",
+    "target_id": "P34903",
+    "score": 238.37780986522787,
+    "rank": 9
+  },
+  {
+    "drug_id": "DB01238",
+    "target_id": "P34903",
+    "score": 238.37780986526727,
+    "rank": 10
+  },
+  {
+    "drug_id": "DB00404",
+    "target_id": "P21728",
+    "score": 238.37780986531544,
+    "rank": 11
+  },
+  {
+    "drug_id": "DB01238",
+    "target_id": "P21728",
+    "score": 238.3778098653567,
+    "rank": 12
+  },
+  {
+    "drug_id": "DB00572",
+    "target_id": "Q12809",
+    "score": 238.37780986537882,
+    "rank": 13
+  },
+  {
+    "drug_id": "DB00404",
+    "target_id": "P41145",
+    "score": 238.37780986538488,
+    "rank": 14
+  },
+  {
+    "drug_id": "DB00248",
+    "target_id": "P34903",
+    "score": 238.37780986538792,
+    "rank": 15
+  },
+  {
+    "drug_id": "DB00370",
+    "target_id": "P34903",
+    "score": 238.3778098654061,
+    "rank": 16
+  },
+  {
+    "drug_id": "DB01238",
+    "target_id": "P41145",
+    "score": 238.37780986542631,
+    "rank": 17
+  },
+  {
+    "drug_id": "DB00897",
+    "target_id": "Q12809",
+    "score": 238.37780986543223,
+    "rank": 18
+  },
+  {
+    "drug_id": "DB00248",
+    "target_id": "P21728",
+    "score": 238.37780986547642,
+    "rank": 19
+  },
+  {
+    "drug_id": "DB00370",
+    "target_id": "P21728",
+    "score": 238.37780986549345,
+    "rank": 20
+  },
+  {
+    "drug_id": "DB00489",
+    "target_id": "P34903",
+    "score": 238.3778098654938,
+    "rank": 21
+  },
+  {
+    "drug_id": "DB00312",
+    "target_id": "P34903",
+    "score": 238.3778098655438,
+    "rank": 22
+  },
+  {
+    "drug_id": "DB00248",
+    "target_id": "P41145",
+    "score": 238.37780986554532,
+    "rank": 23
+  },
+  {
+    "drug_id": "DB00370",
+    "target_id": "P41145",
+    "score": 238.37780986556362,
+    "rank": 24
+  },
+  {
+    "drug_id": "DB00489",
+    "target_id": "P21728",
+    "score": 238.3778098655811,
+    "rank": 25
+  },
+  {
+    "drug_id": "DB00312",
+    "target_id": "P21728",
+    "score": 238.37780986563212,
+    "rank": 26
+  },
+  {
+    "drug_id": "DB00489",
+    "target_id": "P41145",
+    "score": 238.37780986565002,
+    "rank": 27
+  },
+  {
+    "drug_id": "DB00312",
+    "target_id": "P41145",
+    "score": 238.37780986570132,
+    "rank": 28
+  },
+  {
+    "drug_id": "DB00404",
+    "target_id": "P18825",
+    "score": 238.37780986575123,
+    "rank": 29
+  },
+  {
+    "drug_id": "DB01238",
+    "target_id": "P18825",
+    "score": 238.37780986579335,
+    "rank": 30
+  },
+  {
+    "drug_id": "DB01595",
+    "target_id": "P34903",
+    "score": 238.37780986582018,
+    "rank": 31
+  },
+  {
+    "drug_id": "DB01595",
+    "target_id": "P21728",
+    "score": 238.37780986590784,
+    "rank": 32
+  },
+  {
+    "drug_id": "DB00248",
+    "target_id": "P18825",
+    "score": 238.3778098659125,
+    "rank": 33
+  },
+  {
+    "drug_id": "DB00370",
+    "target_id": "P18825",
+    "score": 238.37780986593123,
+    "rank": 34
+  },
+  {
+    "drug_id": "DB00572",
+    "target_id": "P41595",
+    "score": 238.37780986596727,
+    "rank": 35
+  },
+  {
+    "drug_id": "DB01595",
+    "target_id": "P41145",
+    "score": 238.3778098659784,
+    "rank": 36
+  },
+  {
+    "drug_id": "DB00404",
+    "target_id": "Q12809",
+    "score": 238.3778098660101,
+    "rank": 37
+  },
+  {
+    "drug_id": "DB00489",
+    "target_id": "P18825",
+    "score": 238.37780986601777,
+    "rank": 38
+  },
+  {
+    "drug_id": "DB00897",
+    "target_id": "P41595",
+    "score": 238.37780986602039,
+    "rank": 39
+  },
+  {
+    "drug_id": "DB01238",
+    "target_id": "Q12809",
+    "score": 238.37780986605276,
+    "rank": 40
+  },
+  {
+    "drug_id": "DB01364",
+    "target_id": "P34903",
+    "score": 238.37780986605884,
+    "rank": 41
+  },
+  {
+    "drug_id": "DB00312",
+    "target_id": "P18825",
+    "score": 238.37780986606907,
+    "rank": 42
+  },
+  {
+    "drug_id": "DB01364",
+    "target_id": "P21728",
+    "score": 238.37780986614652,
+    "rank": 43
+  },
+  {
+    "drug_id": "DB00248",
+    "target_id": "Q12809",
+    "score": 238.3778098661714,
+    "rank": 44
+  },
+  {
+    "drug_id": "DB00370",
+    "target_id": "Q12809",
+    "score": 238.37780986618816,
+    "rank": 45
+  },
+  {
+    "drug_id": "DB01364",
+    "target_id": "P41145",
+    "score": 238.37780986621507,
+    "rank": 46
+  },
+  {
+    "drug_id": "DB00489",
+    "target_id": "Q12809",
+    "score": 238.37780986627448,
+    "rank": 47
+  },
+  {
+    "drug_id": "DB00246",
+    "target_id": "P34903",
+    "score": 238.3778098662906,
+    "rank": 48
+  },
+  {
+    "drug_id": "DB00312",
+    "target_id": "Q12809",
+    "score": 238.37780986632654,
+    "rank": 49
+  },
+  {
+    "drug_id": "DB01595",
+    "target_id": "P18825",
+    "score": 238.37780986634345,
+    "rank": 50
+  },
+  {
+    "drug_id": "DB00246",
+    "target_id": "P21728",
+    "score": 238.37780986638003,
+    "rank": 51
+  },
+  {
+    "drug_id": "DB00572",
+    "target_id": "Q01959",
+    "score": 238.37780986641215,
+    "rank": 52
+  },
+  {
+    "drug_id": "DB00246",
+    "target_id": "P41145",
+    "score": 238.3778098664478,
+    "rank": 53
+  },
+  {
+    "drug_id": "DB00897",
+    "target_id": "Q01959",
+    "score": 238.3778098664655,
+    "rank": 54
+  },
+  {
+    "drug_id": "DB01364",
+    "target_id": "P18825",
+    "score": 238.37780986658316,
+    "rank": 55
+  },
+  {
+    "drug_id": "DB00404",
+    "target_id": "P41595",
+    "score": 238.37780986659914,
+    "rank": 56
+  },
+  {
+    "drug_id": "DB01595",
+    "target_id": "Q12809",
+    "score": 238.37780986660147,
+    "rank": 57
+  },
+  {
+    "drug_id": "DB01238",
+    "target_id": "P41595",
+    "score": 238.37780986663768,
+    "rank": 58
+  },
+  {
+    "drug_id": "DB00248",
+    "target_id": "P41595",
+    "score": 238.37780986675838,
+    "rank": 59
+  },
+  {
+    "drug_id": "DB00370",
+    "target_id": "P41595",
+    "score": 238.37780986677606,
+    "rank": 60
+  },
+  {
+    "drug_id": "DB00656",
+    "target_id": "P34903",
+    "score": 238.3778098667815,
+    "rank": 61
+  },
+  {
+    "drug_id": "DB00246",
+    "target_id": "P18825",
+    "score": 238.37780986681813,
+    "rank": 62
+  },
+  {
+    "drug_id": "DB01364",
+    "target_id": "Q12809",
+    "score": 238.37780986684072,
+    "rank": 63
+  },
+  {
+    "drug_id": "DB00656",
+    "target_id": "P21728",
+    "score": 238.37780986686312,
+    "rank": 64
+  },
+  {
+    "drug_id": "DB00489",
+    "target_id": "P41595",
+    "score": 238.37780986686462,
+    "rank": 65
+  },
+  {
+    "drug_id": "DB00312",
+    "target_id": "P41595",
+    "score": 238.37780986691487,
+    "rank": 66
+  },
+  {
+    "drug_id": "DB00656",
+    "target_id": "P41145",
+    "score": 238.37780986693966,
+    "rank": 67
+  },
+  {
+    "drug_id": "DB00794",
+    "target_id": "P34903",
+    "score": 238.37780986703513,
+    "rank": 68
+  },
+  {
+    "drug_id": "DB00404",
+    "target_id": "Q01959",
+    "score": 238.37780986704487,
+    "rank": 69
+  },
+  {
+    "drug_id": "DB00572",
+    "target_id": "P35968",
+    "score": 238.37780986706008,
+    "rank": 70
+  },
+  {
+    "drug_id": "DB00246",
+    "target_id": "Q12809",
+    "score": 238.37780986707546,
+    "rank": 71
+  },
+  {
+    "drug_id": "DB01238",
+    "target_id": "Q01959",
+    "score": 238.37780986708393,
+    "rank": 72
+  },
+  {
+    "drug_id": "DB00897",
+    "target_id": "P35968",
+    "score": 238.37780986711144,
+    "rank": 73
+  },
+  {
+    "drug_id": "DB00794",
+    "target_id": "P21728",
+    "score": 238.37780986712394,
+    "rank": 74
+  },
+  {
+    "drug_id": "DB01595",
+    "target_id": "P41595",
+    "score": 238.3778098671922,
+    "rank": 75
+  },
+  {
+    "drug_id": "DB00794",
+    "target_id": "P41145",
+    "score": 238.3778098671937,
+    "rank": 76
+  },
+  {
+    "drug_id": "DB00248",
+    "target_id": "Q01959",
+    "score": 238.37780986720506,
+    "rank": 77
+  },
+  {
+    "drug_id": "DB00370",
+    "target_id": "Q01959",
+    "score": 238.37780986722177,
+    "rank": 78
+  },
+  {
+    "drug_id": "DB00656",
+    "target_id": "P18825",
+    "score": 238.37780986730522,
+    "rank": 79
+  },
+  {
+    "drug_id": "DB00489",
+    "target_id": "Q01959",
+    "score": 238.37780986730945,
+    "rank": 80
+  },
+  {
+    "drug_id": "DB00312",
+    "target_id": "Q01959",
+    "score": 238.37780986736033,
+    "rank": 81
+  },
+  {
+    "drug_id": "DB01364",
+    "target_id": "P41595",
+    "score": 238.37780986742953,
+    "rank": 82
+  },
+  {
+    "drug_id": "DB00794",
+    "target_id": "P18825",
+    "score": 238.3778098675596,
+    "rank": 83
+  },
+  {
+    "drug_id": "DB00656",
+    "target_id": "Q12809",
+    "score": 238.37780986756286,
+    "rank": 84
+  },
+  {
+    "drug_id": "DB01595",
+    "target_id": "Q01959",
+    "score": 238.37780986763767,
+    "rank": 85
+  },
+  {
+    "drug_id": "DB00246",
+    "target_id": "P41595",
+    "score": 238.37780986765947,
+    "rank": 86
+  },
+  {
+    "drug_id": "DB00404",
+    "target_id": "P35968",
+    "score": 238.377809867692,
+    "rank": 87
+  },
+  {
+    "drug_id": "DB00572",
+    "target_id": "Q14654",
+    "score": 238.37780986770937,
+    "rank": 88
+  },
+  {
+    "drug_id": "DB01238",
+    "target_id": "P35968",
+    "score": 238.3778098677308,
+    "rank": 89
+  },
+  {
+    "drug_id": "DB00897",
+    "target_id": "Q14654",
+    "score": 238.3778098677615,
+    "rank": 90
+  },
+  {
+    "drug_id": "DB00572",
+    "target_id": "P35462",
+    "score": 238.37780986779902,
+    "rank": 91
+  },
+  {
+    "drug_id": "DB00794",
+    "target_id": "Q12809",
+    "score": 238.37780986781783,
+    "rank": 92
+  },
+  {
+    "drug_id": "DB00897",
+    "target_id": "P35462",
+    "score": 238.3778098678518,
+    "rank": 93
+  },
+  {
+    "drug_id": "DB00248",
+    "target_id": "P35968",
+    "score": 238.3778098678552,
+    "rank": 94
+  },
+  {
+    "drug_id": "DB00611",
+    "target_id": "P34903",
+    "score": 238.3778098678649,
+    "rank": 95
+  },
+  {
+    "drug_id": "DB00370",
+    "target_id": "P35968",
+    "score": 238.37780986787175,
+    "rank": 96
+  },
+  {
+    "drug_id": "DB01364",
+    "target_id": "Q01959",
+    "score": 238.37780986787345,
+    "rank": 97
+  },
+  {
+    "drug_id": "DB00611",
+    "target_id": "P21728",
+    "score": 238.37780986795298,
+    "rank": 98
+  },
+  {
+    "drug_id": "DB00489",
+    "target_id": "P35968",
+    "score": 238.37780986796338,
+    "rank": 99
+  },
+  {
+    "drug_id": "DB00312",
+    "target_id": "P35968",
+    "score": 238.37780986800993,
+    "rank": 100
+  }
+]

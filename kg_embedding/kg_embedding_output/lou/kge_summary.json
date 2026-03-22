@@ -1,0 +1,71 @@
+{
+  "dataset": "lou",
+  "algorithm": "transe",
+  "embedding_dim": 128,
+  "clusters": {
+    "0": {
+      "n_predictions": 100,
+      "n_entities": 500
+    },
+    "1": {
+      "n_predictions": 100,
+      "n_entities": 500
+    },
+    "2": {
+      "n_predictions": 100,
+      "n_entities": 500
+    },
+    "3": {
+      "n_predictions": 100,
+      "n_entities": 500
+    },
+    "4": {
+      "n_predictions": 100,
+      "n_entities": 500
+    },
+    "5": {
+      "n_predictions": 100,
+      "n_entities": 500
+    },
+    "6": {
+      "n_predictions": 100,
+      "n_entities": 500
+    },
+    "7": {
+      "n_predictions": 100,
+      "n_entities": 500
+    },
+    "8": {
+      "n_predictions": 100,
+      "n_entities": 500
+    },
+    "9": {
+      "n_predictions": 100,
+      "n_entities": 500
+    },
+    "10": {
+      "n_predictions": 100,
+      "n_entities": 501
+    },
+    "11": {
+      "n_predictions": 100,
+      "n_entities": 502
+    },
+    "12": {
+      "n_predictions": 100,
+      "n_entities": 501
+    },
+    "13": {
+      "n_predictions": 100,
+      "n_entities": 500
+    },
+    "14": {
+      "n_predictions": 100,
+      "n_entities": 500
+    },
+    "15": {
+      "n_predictions": 100,
+      "n_entities": 500
+    }
+  }
+}
